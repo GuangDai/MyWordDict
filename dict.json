@@ -1276,8 +1276,8 @@
       "max_times": 0
     },
     "amend": {
-      "score": 0,
-      "date": "2022-09-29 20:18:02.469205",
+      "score": 118,
+      "date": "2022-09-29 21:20:26.726392",
       "max_times": 0
     },
     "amendment": {
@@ -7296,9 +7296,9 @@
       "max_times": 0
     },
     "consistent": {
-      "score": 132,
-      "date": "2022-09-29 20:57:14.037749",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-09-29 21:20:01.515523",
+      "max_times": 4
     },
     "console": {
       "score": 0,
@@ -7351,8 +7351,8 @@
       "max_times": 0
     },
     "constant": {
-      "score": 131,
-      "date": "2022-09-29 20:57:51.037733",
+      "score": 4087,
+      "date": "2022-09-29 21:19:48.544379",
       "max_times": 0
     },
     "constellation": {
@@ -29852,8 +29852,8 @@
     },
     "redeem": {
       "score": 33530,
-      "date": "2022-09-29 20:45:29.440979",
-      "max_times": 8
+      "date": "2022-09-29 21:19:42.945267",
+      "max_times": 11
     },
     "redemptive": {
       "score": 0,
