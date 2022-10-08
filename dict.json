@@ -9926,9 +9926,9 @@
       "max_times": 0
     },
     "devise": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.632328",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:23:27.628532",
+      "max_times": 4
     },
     "devoid": {
       "score": 0,
@@ -12056,9 +12056,9 @@
       "max_times": 0
     },
     "emphasis": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.633176",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:20:48.822440",
+      "max_times": 3
     },
     "emphatic": {
       "score": 0,
@@ -23346,9 +23346,9 @@
       "max_times": 0
     },
     "monarch": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.637700",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:22:42.435993",
+      "max_times": 4
     },
     "monarchy": {
       "score": 0,
@@ -26051,9 +26051,9 @@
       "max_times": 0
     },
     "peak": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.638879",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:20:31.885150",
+      "max_times": 2
     },
     "peaky": {
       "score": 0,
@@ -27956,9 +27956,9 @@
       "max_times": 0
     },
     "preservation": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.639648",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:21:22.822681",
+      "max_times": 2
     },
     "preservative": {
       "score": 0,
@@ -29746,9 +29746,9 @@
       "max_times": 0
     },
     "reckon": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.640373",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:25:00.116807",
+      "max_times": 1
     },
     "reclaim": {
       "score": 0,
@@ -31556,9 +31556,9 @@
       "max_times": 0
     },
     "salute": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.641108",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:24:47.949539",
+      "max_times": 3
     },
     "salvage": {
       "score": 0,
@@ -32001,9 +32001,9 @@
       "max_times": 0
     },
     "scramble": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.641291",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:24:02.493074",
+      "max_times": 1
     },
     "scrap": {
       "score": 0,
@@ -35007,8 +35007,8 @@
     },
     "subsidy": {
       "score": 33530,
-      "date": "2022-10-08 20:18:13.758578",
-      "max_times": 5
+      "date": "2022-10-08 20:22:55.167399",
+      "max_times": 9
     },
     "subsist": {
       "score": 0,
@@ -35296,9 +35296,9 @@
       "max_times": 0
     },
     "supervise": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.642665",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:23:54.273913",
+      "max_times": 6
     },
     "supine": {
       "score": 0,
@@ -46289,6 +46289,11 @@
       "score": 0,
       "date": "2022-10-08 20:17:56.647255",
       "max_times": 0
+    },
+    "gown": {
+      "score": 33530,
+      "date": "2022-10-08 20:21:31.802446",
+      "max_times": 3
     }
   },
   "__LastUpdate__": "2022-10-08 20:17:56.628371"
