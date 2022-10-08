@@ -3846,9 +3846,9 @@
       "max_times": 0
     },
     "blossom": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.629908",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:48:32.086797",
+      "max_times": 2
     },
     "blotch": {
       "score": 0,
@@ -5171,9 +5171,9 @@
       "max_times": 0
     },
     "cater": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.630434",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:49:47.774655",
+      "max_times": 4
     },
     "caterpillar": {
       "score": 0,
@@ -10561,9 +10561,9 @@
       "max_times": 0
     },
     "dismay": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.632581",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:49:38.224689",
+      "max_times": 7
     },
     "disparage": {
       "score": 0,
@@ -16821,9 +16821,9 @@
       "max_times": 0
     },
     "hail": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.635078",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:46:52.627530",
+      "max_times": 5
     },
     "halcyon": {
       "score": 0,
@@ -23231,9 +23231,9 @@
       "max_times": 0
     },
     "mobility": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.637654",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:46:40.760658",
+      "max_times": 4
     },
     "mock": {
       "score": 0,
@@ -34821,9 +34821,9 @@
       "max_times": 0
     },
     "strive": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.642468",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:45:51.135953",
+      "max_times": 5
     },
     "stroke": {
       "score": 0,
@@ -38211,9 +38211,9 @@
       "max_times": 0
     },
     "variance": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.643862",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:47:50.523415",
+      "max_times": 7
     },
     "variegate": {
       "score": 0,
@@ -41771,9 +41771,9 @@
       "max_times": 0
     },
     "meter": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.645372",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:49:31.324495",
+      "max_times": 5
     },
     "attendant": {
       "score": 0,
@@ -42016,9 +42016,9 @@
       "max_times": 0
     },
     "scrutiny": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.645474",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:47:19.061032",
+      "max_times": 5
     },
     "plug": {
       "score": 0,
@@ -42501,9 +42501,9 @@
       "max_times": 0
     },
     "drown": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.645672",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:48:02.723816",
+      "max_times": 4
     },
     "destruction": {
       "score": 0,
@@ -42941,9 +42941,9 @@
       "max_times": 0
     },
     "furnish": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.645863",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:46:08.935096",
+      "max_times": 3
     },
     "mutual": {
       "score": 0,
@@ -43076,9 +43076,9 @@
       "max_times": 0
     },
     "cradle": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.645919",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:45:17.760065",
+      "max_times": 7
     },
     "comparative": {
       "score": 0,
@@ -44121,9 +44121,9 @@
       "max_times": 0
     },
     "innermost": {
-      "score": 0,
-      "date": "2022-10-08 20:17:56.646349",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-08 20:48:19.799040",
+      "max_times": 3
     },
     "spicy": {
       "score": 0,
@@ -46308,6 +46308,11 @@
     "cho": {
       "score": 500,
       "date": "2022-10-08 20:38:48.977303",
+      "max_times": 0
+    },
+    "cate": {
+      "score": 500,
+      "date": "2022-10-08 20:49:41.437025",
       "max_times": 0
     }
   },
