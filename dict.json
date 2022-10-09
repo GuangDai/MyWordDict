@@ -16877,8 +16877,8 @@
     },
     "hamper": {
       "score": 33530,
-      "date": "2022-10-09 20:53:24.125985",
-      "max_times": 6
+      "date": "2022-10-09 21:00:00.910694",
+      "max_times": 9
     },
     "hamstring": {
       "score": 0,
@@ -36011,9 +36011,9 @@
       "max_times": 0
     },
     "temporal": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.963490",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 20:55:33.720657",
+      "max_times": 7
     },
     "temporize": {
       "score": 0,
@@ -36021,9 +36021,9 @@
       "max_times": 0
     },
     "temptation": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.963495",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 20:56:21.038176",
+      "max_times": 6
     },
     "tenable": {
       "score": 0,
@@ -36046,9 +36046,9 @@
       "max_times": 0
     },
     "tend": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.963506",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 20:56:28.713765",
+      "max_times": 4
     },
     "tend to": {
       "score": 0,
@@ -36946,9 +36946,9 @@
       "max_times": 0
     },
     "trench": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.963898",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 20:58:49.308774",
+      "max_times": 4
     },
     "trenchant": {
       "score": 0,
@@ -37466,9 +37466,9 @@
       "max_times": 0
     },
     "underlying": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.964120",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 20:58:18.803875",
+      "max_times": 7
     },
     "undermine": {
       "score": 0,
@@ -37646,9 +37646,9 @@
       "max_times": 0
     },
     "unify": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.964198",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 20:59:48.180121",
+      "max_times": 10
     },
     "unilateral": {
       "score": 0,
@@ -43836,9 +43836,9 @@
       "max_times": 0
     },
     "underlie": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.966904",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 20:56:44.059018",
+      "max_times": 3
     },
     "transportation": {
       "score": 0,
@@ -44567,8 +44567,8 @@
     },
     "tow": {
       "score": 33530,
-      "date": "2022-10-09 20:53:45.780323",
-      "max_times": 7
+      "date": "2022-10-09 20:59:20.796970",
+      "max_times": 10
     },
     "bunch": {
       "score": 0,
@@ -46369,6 +46369,16 @@
       "score": 33530,
       "date": "2022-10-09 20:54:26.294888",
       "max_times": 7
+    },
+    "tempt": {
+      "score": 33530,
+      "date": "2022-10-09 20:55:51.400173",
+      "max_times": 12
+    },
+    "unemployment": {
+      "score": 33530,
+      "date": "2022-10-09 20:59:16.981657",
+      "max_times": 4
     }
   },
   "__LastUpdate__": "2022-10-09 19:47:28.948177"
