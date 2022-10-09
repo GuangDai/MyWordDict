@@ -18102,8 +18102,8 @@
     },
     "illustrate": {
       "score": 33530,
-      "date": "2022-10-09 21:05:00.149700",
-      "max_times": 2
+      "date": "2022-10-09 21:05:08.551665",
+      "max_times": 5
     },
     "illustrious": {
       "score": 0,
@@ -18131,9 +18131,9 @@
       "max_times": 0
     },
     "imitation": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.955884",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 21:09:03.348647",
+      "max_times": 8
     },
     "imitative": {
       "score": 0,
@@ -20762,8 +20762,8 @@
     },
     "knit": {
       "score": 33530,
-      "date": "2022-10-09 21:04:35.256748",
-      "max_times": 7
+      "date": "2022-10-09 21:08:58.148599",
+      "max_times": 9
     },
     "knoll": {
       "score": 0,
@@ -21196,9 +21196,9 @@
       "max_times": 0
     },
     "legitimate": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.957168",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 21:06:34.977857",
+      "max_times": 5
     },
     "leisureliness": {
       "score": 0,
@@ -21251,9 +21251,9 @@
       "max_times": 0
     },
     "lever": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.957192",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 21:06:52.577531",
+      "max_times": 7
     },
     "leverage": {
       "score": 0,
@@ -22231,9 +22231,9 @@
       "max_times": 0
     },
     "manipulate": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.957605",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 21:07:27.808147",
+      "max_times": 7
     },
     "manipulative": {
       "score": 0,
@@ -22411,9 +22411,9 @@
       "max_times": 0
     },
     "massacre": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.957681",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 21:08:13.696614",
+      "max_times": 5
     },
     "massive": {
       "score": 0,
@@ -39132,8 +39132,8 @@
     },
     "weld": {
       "score": 33530,
-      "date": "2022-10-09 21:03:33.551920",
-      "max_times": 12
+      "date": "2022-10-09 21:08:46.999243",
+      "max_times": 15
     },
     "well-groomed": {
       "score": 0,
@@ -39686,9 +39686,9 @@
       "max_times": 0
     },
     "zoom": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.965080",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 21:05:31.677000",
+      "max_times": 7
     },
     "suck": {
       "score": 0,
@@ -43791,9 +43791,9 @@
       "max_times": 0
     },
     "questionnaire": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.966885",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 21:09:51.747495",
+      "max_times": 2
     },
     "upscale": {
       "score": 0,
@@ -46394,6 +46394,11 @@
       "score": 33530,
       "date": "2022-10-09 21:03:56.380576",
       "max_times": 8
+    },
+    "particle": {
+      "score": 33530,
+      "date": "2022-10-09 21:08:37.598992",
+      "max_times": 6
     }
   },
   "__LastUpdate__": "2022-10-09 19:47:28.948177"
