@@ -1231,9 +1231,9 @@
       "max_times": 0
     },
     "ambiguous": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.948701",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 21:01:23.016332",
+      "max_times": 5
     },
     "ambivalence": {
       "score": 0,
@@ -16877,8 +16877,8 @@
     },
     "hamper": {
       "score": 33530,
-      "date": "2022-10-09 21:00:00.910694",
-      "max_times": 9
+      "date": "2022-10-09 21:00:01.966064",
+      "max_times": 10
     },
     "hamstring": {
       "score": 0,
@@ -18101,9 +18101,9 @@
       "max_times": 0
     },
     "illustrate": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.955871",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 21:05:00.149700",
+      "max_times": 2
     },
     "illustrious": {
       "score": 0,
@@ -20761,9 +20761,9 @@
       "max_times": 0
     },
     "knit": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.956985",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 21:04:35.256748",
+      "max_times": 7
     },
     "knoll": {
       "score": 0,
@@ -36022,8 +36022,8 @@
     },
     "temptation": {
       "score": 33530,
-      "date": "2022-10-09 20:56:21.038176",
-      "max_times": 6
+      "date": "2022-10-09 21:02:18.648612",
+      "max_times": 9
     },
     "tenable": {
       "score": 0,
@@ -37467,8 +37467,8 @@
     },
     "underlying": {
       "score": 33530,
-      "date": "2022-10-09 20:58:18.803875",
-      "max_times": 7
+      "date": "2022-10-09 21:00:13.642307",
+      "max_times": 9
     },
     "undermine": {
       "score": 0,
@@ -38101,9 +38101,9 @@
       "max_times": 0
     },
     "vague": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.964395",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 21:01:31.066193",
+      "max_times": 5
     },
     "vain": {
       "score": 0,
@@ -39131,9 +39131,9 @@
       "max_times": 0
     },
     "weld": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.964843",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 21:03:33.551920",
+      "max_times": 12
     },
     "well-groomed": {
       "score": 0,
@@ -41166,9 +41166,9 @@
       "max_times": 0
     },
     "vast": {
-      "score": 0,
-      "date": "2022-10-09 19:47:28.965727",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-09 21:02:04.724884",
+      "max_times": 6
     },
     "vigorously": {
       "score": 0,
@@ -43837,8 +43837,8 @@
     },
     "underlie": {
       "score": 33530,
-      "date": "2022-10-09 20:56:44.059018",
-      "max_times": 3
+      "date": "2022-10-09 21:00:22.284154",
+      "max_times": 8
     },
     "transportation": {
       "score": 0,
@@ -46379,6 +46379,21 @@
       "score": 33530,
       "date": "2022-10-09 20:59:16.981657",
       "max_times": 4
+    },
+    "welfare": {
+      "score": 33530,
+      "date": "2022-10-09 21:03:01.043158",
+      "max_times": 13
+    },
+    "whirl": {
+      "score": 33530,
+      "date": "2022-10-09 21:03:18.931825",
+      "max_times": 9
+    },
+    "yield": {
+      "score": 33530,
+      "date": "2022-10-09 21:03:56.380576",
+      "max_times": 8
     }
   },
   "__LastUpdate__": "2022-10-09 19:47:28.948177"
