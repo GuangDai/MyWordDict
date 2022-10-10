@@ -2782,8 +2782,8 @@
     },
     "auxiliary": {
       "score": 33530,
-      "date": "2022-10-10 21:38:55.304741",
-      "max_times": 4
+      "date": "2022-10-10 21:45:38.500915",
+      "max_times": 7
     },
     "available": {
       "score": 0,
@@ -7486,9 +7486,9 @@
       "max_times": 0
     },
     "contend": {
-      "score": 0,
-      "date": "2022-10-10 20:57:18.996037",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:49:07.416886",
+      "max_times": 5
     },
     "content": {
       "score": 0,
@@ -28276,9 +28276,9 @@
       "max_times": 0
     },
     "profound": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.004448",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:45:25.375619",
+      "max_times": 8
     },
     "profuse": {
       "score": 0,
@@ -28371,9 +28371,9 @@
       "max_times": 0
     },
     "prominent": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.004487",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:46:14.513701",
+      "max_times": 5
     },
     "promote": {
       "score": 0,
@@ -28381,9 +28381,9 @@
       "max_times": 0
     },
     "prompt": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.004491",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:46:42.244543",
+      "max_times": 11
     },
     "promulgate": {
       "score": 0,
@@ -30551,9 +30551,9 @@
       "max_times": 0
     },
     "reservation": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.005383",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:47:16.801288",
+      "max_times": 6
     },
     "reserve": {
       "score": 0,
@@ -42121,9 +42121,9 @@
       "max_times": 0
     },
     "respective": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.010195",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:47:51.117781",
+      "max_times": 5
     },
     "incineration": {
       "score": 0,
@@ -42612,8 +42612,8 @@
     },
     "durable": {
       "score": 33530,
-      "date": "2022-10-10 21:40:22.938307",
-      "max_times": 6
+      "date": "2022-10-10 21:47:22.052378",
+      "max_times": 7
     },
     "grammar": {
       "score": 0,
@@ -46604,6 +46604,16 @@
       "score": 33530,
       "date": "2022-10-10 21:44:51.232589",
       "max_times": 2
+    },
+    "proof": {
+      "score": 500,
+      "date": "2022-10-10 21:46:50.578643",
+      "max_times": 0
+    },
+    "successive": {
+      "score": 33530,
+      "date": "2022-10-10 21:48:53.703756",
+      "max_times": 5
     }
   },
   "__LastUpdate__": "2022-10-10 20:57:18.993053"
