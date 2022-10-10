@@ -2881,9 +2881,9 @@
       "max_times": 0
     },
     "awkward": {
-      "score": 0,
-      "date": "2022-10-10 20:57:18.994210",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:28:55.692769",
+      "max_times": 2
     },
     "awl": {
       "score": 0,
@@ -5126,9 +5126,9 @@
       "max_times": 0
     },
     "casual": {
-      "score": 0,
-      "date": "2022-10-10 20:57:18.995101",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:25:08.469733",
+      "max_times": 2
     },
     "casualty": {
       "score": 0,
@@ -5396,9 +5396,9 @@
       "max_times": 0
     },
     "ceremonial": {
-      "score": 0,
-      "date": "2022-10-10 20:57:18.995208",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:26:04.582329",
+      "max_times": 4
     },
     "ceremonious": {
       "score": 0,
@@ -5406,9 +5406,9 @@
       "max_times": 0
     },
     "ceremony": {
-      "score": 0,
-      "date": "2022-10-10 20:57:18.995212",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:25:59.545520",
+      "max_times": 4
     },
     "certainty": {
       "score": 0,
@@ -13916,9 +13916,9 @@
       "max_times": 0
     },
     "favorable": {
-      "score": 0,
-      "date": "2022-10-10 20:57:18.998606",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:27:30.589365",
+      "max_times": 2
     },
     "fawn": {
       "score": 0,
@@ -20206,9 +20206,9 @@
       "max_times": 0
     },
     "invoke": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.001142",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:29:58.265255",
+      "max_times": 6
     },
     "involuntary": {
       "score": 0,
@@ -33066,9 +33066,9 @@
       "max_times": 0
     },
     "skeleton": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.006424",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:27:56.081362",
+      "max_times": 6
     },
     "sketchy": {
       "score": 0,
@@ -38037,8 +38037,8 @@
     },
     "utilize": {
       "score": 33530,
-      "date": "2022-10-10 21:22:11.600686",
-      "max_times": 4
+      "date": "2022-10-10 21:26:13.668814",
+      "max_times": 6
     },
     "utopia": {
       "score": 0,
@@ -46472,13 +46472,13 @@
     },
     "seemingly": {
       "score": 33530,
-      "date": "2022-10-10 21:12:21.188288",
-      "max_times": 6
+      "date": "2022-10-10 21:27:04.470347",
+      "max_times": 9
     },
     "urban": {
       "score": 33530,
-      "date": "2022-10-10 21:21:48.944648",
-      "max_times": 2
+      "date": "2022-10-10 21:26:33.247044",
+      "max_times": 5
     },
     "wonder": {
       "score": 33530,
@@ -46514,6 +46514,31 @@
       "score": 33530,
       "date": "2022-10-10 21:24:35.363030",
       "max_times": 5
+    },
+    "fashionable": {
+      "score": 33530,
+      "date": "2022-10-10 21:26:24.473188",
+      "max_times": 1
+    },
+    "favour": {
+      "score": 33530,
+      "date": "2022-10-10 21:27:16.937842",
+      "max_times": 4
+    },
+    "skeptical": {
+      "score": 33530,
+      "date": "2022-10-10 21:28:14.320751",
+      "max_times": 5
+    },
+    "currency": {
+      "score": 33530,
+      "date": "2022-10-10 21:28:26.533126",
+      "max_times": 4
+    },
+    "extravagant": {
+      "score": 33530,
+      "date": "2022-10-10 21:29:35.172476",
+      "max_times": 6
     }
   },
   "__LastUpdate__": "2022-10-10 20:57:18.993053"
