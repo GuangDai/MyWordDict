@@ -28946,9 +28946,9 @@
       "max_times": 0
     },
     "pursue": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.004722",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:30:34.739702",
+      "max_times": 5
     },
     "purvey": {
       "score": 0,
@@ -31141,9 +31141,9 @@
       "max_times": 0
     },
     "rival": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.005626",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:31:31.115958",
+      "max_times": 11
     },
     "rivalry": {
       "score": 0,
@@ -35386,9 +35386,9 @@
       "max_times": 0
     },
     "surplus": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.007387",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:32:55.539801",
+      "max_times": 3
     },
     "surrealism": {
       "score": 0,
@@ -35411,9 +35411,9 @@
       "max_times": 0
     },
     "surveillance": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.007397",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:33:25.716697",
+      "max_times": 4
     },
     "surveyor": {
       "score": 0,
@@ -35441,9 +35441,9 @@
       "max_times": 0
     },
     "suspend": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.007409",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:33:49.454050",
+      "max_times": 1
     },
     "suspense": {
       "score": 0,
@@ -35456,9 +35456,9 @@
       "max_times": 0
     },
     "suspicious": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.007416",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:34:06.216201",
+      "max_times": 2
     },
     "sustain": {
       "score": 0,
@@ -35506,9 +35506,9 @@
       "max_times": 0
     },
     "swarm": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.007436",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:34:28.965878",
+      "max_times": 4
     },
     "swarthy": {
       "score": 0,
@@ -37171,9 +37171,9 @@
       "max_times": 0
     },
     "tumble": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.008132",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:34:55.303603",
+      "max_times": 7
     },
     "tumid": {
       "score": 0,
@@ -37191,8 +37191,8 @@
       "max_times": 0
     },
     "turbulent": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.008140",
+      "score": 133,
+      "date": "2022-10-10 21:35:00.935801",
       "max_times": 0
     },
     "tureen": {
@@ -40746,9 +40746,9 @@
       "max_times": 0
     },
     "routine": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.009618",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:32:41.943621",
+      "max_times": 9
     },
     "overstep": {
       "score": 0,
@@ -42251,9 +42251,9 @@
       "max_times": 0
     },
     "enroll": {
-      "score": 18438,
-      "date": "2022-10-10 20:57:19.010250",
-      "max_times": 5
+      "score": 33530,
+      "date": "2022-10-10 21:32:04.652357",
+      "max_times": 6
     },
     "tale": {
       "score": 0,
@@ -44811,9 +44811,9 @@
       "max_times": 0
     },
     "pursuit": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.011323",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:30:50.290943",
+      "max_times": 5
     },
     "quiz": {
       "score": 0,
@@ -46522,8 +46522,8 @@
     },
     "favour": {
       "score": 33530,
-      "date": "2022-10-10 21:27:16.937842",
-      "max_times": 4
+      "date": "2022-10-10 21:31:52.054007",
+      "max_times": 8
     },
     "skeptical": {
       "score": 33530,
@@ -46539,6 +46539,21 @@
       "score": 33530,
       "date": "2022-10-10 21:29:35.172476",
       "max_times": 6
+    },
+    "persuit": {
+      "score": 500,
+      "date": "2022-10-10 21:30:41.741094",
+      "max_times": 0
+    },
+    "rise": {
+      "score": 500,
+      "date": "2022-10-10 21:31:13.665443",
+      "max_times": 0
+    },
+    "savour": {
+      "score": 33530,
+      "date": "2022-10-10 21:31:44.639970",
+      "max_times": 3
     }
   },
   "__LastUpdate__": "2022-10-10 20:57:18.993053"
