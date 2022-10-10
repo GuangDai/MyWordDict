@@ -11486,9 +11486,9 @@
       "max_times": 0
     },
     "dynamic": {
-      "score": 0,
-      "date": "2022-10-10 20:57:18.997632",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:41:27.950481",
+      "max_times": 4
     },
     "dynamo": {
       "score": 0,
@@ -24341,9 +24341,9 @@
       "max_times": 0
     },
     "norm": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.002830",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:42:27.312537",
+      "max_times": 6
     },
     "nostalgia": {
       "score": 0,
@@ -30716,9 +30716,9 @@
       "max_times": 0
     },
     "resume": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.005452",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:43:26.731806",
+      "max_times": 6
     },
     "resurge": {
       "score": 0,
@@ -41116,9 +41116,9 @@
       "max_times": 0
     },
     "reveal": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.009771",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:43:45.201846",
+      "max_times": 3
     },
     "syphilis": {
       "score": 0,
@@ -42611,9 +42611,9 @@
       "max_times": 0
     },
     "durable": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.010403",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:40:22.938307",
+      "max_times": 6
     },
     "grammar": {
       "score": 0,
@@ -43631,9 +43631,9 @@
       "max_times": 0
     },
     "publicity": {
-      "score": 0,
-      "date": "2022-10-10 20:57:19.010825",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-10 21:43:10.614362",
+      "max_times": 4
     },
     "popularity": {
       "score": 122,
@@ -46569,6 +46569,41 @@
       "score": 33530,
       "date": "2022-10-10 21:39:14.459214",
       "max_times": 6
+    },
+    "due": {
+      "score": 33530,
+      "date": "2022-10-10 21:40:08.024369",
+      "max_times": 7
+    },
+    "introduce": {
+      "score": 33530,
+      "date": "2022-10-10 21:41:47.137137",
+      "max_times": 3
+    },
+    "myth": {
+      "score": 33530,
+      "date": "2022-10-10 21:42:01.129262",
+      "max_times": 5
+    },
+    "noble": {
+      "score": 33530,
+      "date": "2022-10-10 21:42:11.549594",
+      "max_times": 4
+    },
+    "publication": {
+      "score": 33530,
+      "date": "2022-10-10 21:42:48.975066",
+      "max_times": 2
+    },
+    "systematically": {
+      "score": 500,
+      "date": "2022-10-10 21:44:27.786830",
+      "max_times": 0
+    },
+    "systematical": {
+      "score": 33530,
+      "date": "2022-10-10 21:44:51.232589",
+      "max_times": 2
     }
   },
   "__LastUpdate__": "2022-10-10 20:57:18.993053"
