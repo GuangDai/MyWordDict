@@ -9511,9 +9511,9 @@
       "max_times": 0
     },
     "depot": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.241646",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 22:13:11.475517",
+      "max_times": 6
     },
     "depraved": {
       "score": 0,
@@ -10066,9 +10066,9 @@
       "max_times": 0
     },
     "differentiate": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.241903",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 22:12:04.472891",
+      "max_times": 4
     },
     "diffident": {
       "score": 0,
@@ -13941,9 +13941,9 @@
       "max_times": 0
     },
     "feat": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.243689",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 22:10:40.551977",
+      "max_times": 8
     },
     "feature": {
       "score": 0,
@@ -30876,9 +30876,9 @@
       "max_times": 0
     },
     "revenue": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.251155",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 22:10:16.892016",
+      "max_times": 3
     },
     "reverberate": {
       "score": 0,
@@ -44386,9 +44386,9 @@
       "max_times": 0
     },
     "punctual": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.257241",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 22:12:52.462143",
+      "max_times": 7
     },
     "spray": {
       "score": 0,
@@ -46899,6 +46899,11 @@
       "score": 33530,
       "date": "2022-10-11 22:10:00.294728",
       "max_times": 4
+    },
+    "manufacturing": {
+      "score": 33530,
+      "date": "2022-10-11 22:11:12.694923",
+      "max_times": 2
     }
   },
   "__LastUpdate__": "2022-10-11 20:05:16.237278"
