@@ -2617,8 +2617,8 @@
     },
     "attribute": {
       "score": 33530,
-      "date": "2022-10-11 20:43:14.238322",
-      "max_times": 8
+      "date": "2022-10-11 20:46:25.379433",
+      "max_times": 12
     },
     "attrition": {
       "score": 0,
@@ -17756,9 +17756,9 @@
       "max_times": 0
     },
     "humble": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.245354",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:46:02.678426",
+      "max_times": 5
     },
     "humdrum": {
       "score": 0,
@@ -19687,8 +19687,8 @@
     },
     "institution": {
       "score": 33530,
-      "date": "2022-10-11 20:44:03.795052",
-      "max_times": 6
+      "date": "2022-10-11 20:45:25.362330",
+      "max_times": 7
     },
     "institutionalized": {
       "score": 0,
@@ -24081,9 +24081,9 @@
       "max_times": 0
     },
     "nerve": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.248121",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:49:12.510956",
+      "max_times": 7
     },
     "nestle": {
       "score": 0,
@@ -26976,9 +26976,9 @@
       "max_times": 0
     },
     "pistol": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.249406",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:49:59.759952",
+      "max_times": 5
     },
     "pitch": {
       "score": 0,
@@ -43561,9 +43561,9 @@
       "max_times": 0
     },
     "interact": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.256869",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:48:03.617761",
+      "max_times": 5
     },
     "merchandise": {
       "score": 0,
@@ -46737,8 +46737,8 @@
     },
     "courtesy": {
       "score": 33530,
-      "date": "2022-10-11 20:43:44.657493",
-      "max_times": 6
+      "date": "2022-10-11 20:46:45.090303",
+      "max_times": 10
     },
     "create": {
       "score": 33530,
@@ -46754,6 +46754,61 @@
       "score": 33530,
       "date": "2022-10-11 20:44:50.366361",
       "max_times": 4
+    },
+    "export": {
+      "score": 33530,
+      "date": "2022-10-11 20:45:18.670449",
+      "max_times": 3
+    },
+    "express": {
+      "score": 33530,
+      "date": "2022-10-11 20:45:40.282545",
+      "max_times": 5
+    },
+    "extent": {
+      "score": 33530,
+      "date": "2022-10-11 20:45:48.070845",
+      "max_times": 3
+    },
+    "intension": {
+      "score": 33530,
+      "date": "2022-10-11 20:47:10.828486",
+      "max_times": 7
+    },
+    "intensity": {
+      "score": 33530,
+      "date": "2022-10-11 20:47:23.596555",
+      "max_times": 4
+    },
+    "intensive": {
+      "score": 33530,
+      "date": "2022-10-11 20:47:46.210728",
+      "max_times": 7
+    },
+    "intercourse": {
+      "score": 33530,
+      "date": "2022-10-11 20:48:32.214436",
+      "max_times": 6
+    },
+    "interior": {
+      "score": 33530,
+      "date": "2022-10-11 20:48:50.372417",
+      "max_times": 5
+    },
+    "lose": {
+      "score": 33530,
+      "date": "2022-10-11 20:48:56.384837",
+      "max_times": 2
+    },
+    "nervous": {
+      "score": 33530,
+      "date": "2022-10-11 20:49:20.877557",
+      "max_times": 2
+    },
+    "pioneer": {
+      "score": 33530,
+      "date": "2022-10-11 20:49:43.698727",
+      "max_times": 6
     }
   },
   "__LastUpdate__": "2022-10-11 20:05:16.237278"
