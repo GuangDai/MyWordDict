@@ -2422,8 +2422,8 @@
     },
     "assimilate": {
       "score": 33530,
-      "date": "2022-10-11 20:13:26.341241",
-      "max_times": 3
+      "date": "2022-10-11 20:18:17.778537",
+      "max_times": 12
     },
     "associate": {
       "score": 0,
@@ -7696,9 +7696,9 @@
       "max_times": 0
     },
     "convey": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.240853",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:15:18.968231",
+      "max_times": 6
     },
     "convict": {
       "score": 0,
@@ -11061,9 +11061,9 @@
       "max_times": 0
     },
     "dominate": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.242447",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:15:36.963047",
+      "max_times": 2
     },
     "domination": {
       "score": 0,
@@ -13281,9 +13281,9 @@
       "max_times": 0
     },
     "expand": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.243409",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:17:41.984989",
+      "max_times": 5
     },
     "expansive": {
       "score": 0,
@@ -13331,9 +13331,9 @@
       "max_times": 0
     },
     "expertise": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.243430",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:19:05.214933",
+      "max_times": 5
     },
     "expiate": {
       "score": 0,
@@ -19681,14 +19681,14 @@
       "max_times": 0
     },
     "institute": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.246190",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:19:41.940212",
+      "max_times": 7
     },
     "institution": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.246192",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:20:00.539316",
+      "max_times": 3
     },
     "institutionalized": {
       "score": 0,
@@ -28171,9 +28171,9 @@
       "max_times": 0
     },
     "procession": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.249967",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:16:20.711438",
+      "max_times": 3
     },
     "proclaim": {
       "score": 0,
@@ -28241,9 +28241,9 @@
       "max_times": 0
     },
     "productivity": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.249997",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:17:11.098409",
+      "max_times": 2
     },
     "profane": {
       "score": 0,
@@ -29972,8 +29972,8 @@
     },
     "refute": {
       "score": 33530,
-      "date": "2022-10-11 20:10:57.434758",
-      "max_times": 8
+      "date": "2022-10-11 20:15:27.267401",
+      "max_times": 11
     },
     "regal": {
       "score": 0,
@@ -30497,8 +30497,8 @@
     },
     "reputation": {
       "score": 33530,
-      "date": "2022-10-11 20:12:39.144867",
-      "max_times": 7
+      "date": "2022-10-11 20:19:13.686774",
+      "max_times": 9
     },
     "repute": {
       "score": 0,
@@ -46677,8 +46677,33 @@
     },
     "convention": {
       "score": 33530,
-      "date": "2022-10-11 20:14:51.859444",
-      "max_times": 6
+      "date": "2022-10-11 20:17:29.266880",
+      "max_times": 10
+    },
+    "doubt": {
+      "score": 33530,
+      "date": "2022-10-11 20:15:44.236969",
+      "max_times": 2
+    },
+    "procedure": {
+      "score": 33530,
+      "date": "2022-10-11 20:16:05.072557",
+      "max_times": 8
+    },
+    "product": {
+      "score": 33530,
+      "date": "2022-10-11 20:16:32.878455",
+      "max_times": 5
+    },
+    "productive": {
+      "score": 33530,
+      "date": "2022-10-11 20:16:51.479902",
+      "max_times": 4
+    },
+    "expectation": {
+      "score": 33530,
+      "date": "2022-10-11 20:18:43.872653",
+      "max_times": 4
     }
   },
   "__LastUpdate__": "2022-10-11 20:05:16.237278"
