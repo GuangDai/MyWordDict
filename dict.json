@@ -2401,9 +2401,9 @@
       "max_times": 0
     },
     "assess": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.238438",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:12:57.383167",
+      "max_times": 5
     },
     "assessment": {
       "score": 0,
@@ -2421,9 +2421,9 @@
       "max_times": 0
     },
     "assimilate": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.238447",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:13:26.341241",
+      "max_times": 3
     },
     "associate": {
       "score": 0,
@@ -7646,9 +7646,9 @@
       "max_times": 0
     },
     "convene": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.240831",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:14:35.734782",
+      "max_times": 7
     },
     "convenience": {
       "score": 0,
@@ -29971,9 +29971,9 @@
       "max_times": 0
     },
     "refute": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.250756",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:10:57.434758",
+      "max_times": 8
     },
     "regal": {
       "score": 0,
@@ -30496,9 +30496,9 @@
       "max_times": 0
     },
     "reputation": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.250988",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:12:39.144867",
+      "max_times": 7
     },
     "repute": {
       "score": 0,
@@ -46641,9 +46641,44 @@
       "max_times": 0
     },
     "intelligence": {
+      "score": 33530,
+      "date": "2022-10-11 20:10:14.798271",
+      "max_times": 4
+    },
+    "intelligent": {
+      "score": 33530,
+      "date": "2022-10-11 20:10:31.259928",
+      "max_times": 4
+    },
+    "regular": {
+      "score": 33530,
+      "date": "2022-10-11 20:11:14.530417",
+      "max_times": 5
+    },
+    "regulation": {
+      "score": 33530,
+      "date": "2022-10-11 20:12:05.945356",
+      "max_times": 6
+    },
+    "explore": {
       "score": 500,
-      "date": "2022-10-11 20:09:58.108902",
+      "date": "2022-10-11 20:13:37.378906",
       "max_times": 0
+    },
+    "contribution": {
+      "score": 33530,
+      "date": "2022-10-11 20:13:48.620971",
+      "max_times": 1
+    },
+    "controversy": {
+      "score": 33530,
+      "date": "2022-10-11 20:14:11.036019",
+      "max_times": 5
+    },
+    "convention": {
+      "score": 33530,
+      "date": "2022-10-11 20:14:51.859444",
+      "max_times": 6
     }
   },
   "__LastUpdate__": "2022-10-11 20:05:16.237278"
