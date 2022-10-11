@@ -16026,9 +16026,9 @@
       "max_times": 0
     },
     "glimpse": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.244612",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 22:08:08.715045",
+      "max_times": 4
     },
     "glisten": {
       "score": 0,
@@ -26596,9 +26596,9 @@
       "max_times": 0
     },
     "pertinent": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.249242",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 22:09:37.132596",
+      "max_times": 6
     },
     "peruse": {
       "score": 0,
@@ -30596,9 +30596,9 @@
       "max_times": 0
     },
     "resilience": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.251033",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 22:07:13.884226",
+      "max_times": 5
     },
     "resilient": {
       "score": 33530,
@@ -42781,9 +42781,9 @@
       "max_times": 0
     },
     "domestic": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.256518",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 22:08:50.118049",
+      "max_times": 4
     },
     "recognize": {
       "score": 0,
@@ -42901,9 +42901,9 @@
       "max_times": 0
     },
     "sector": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.256581",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 22:06:47.839804",
+      "max_times": 5
     },
     "miniaturization": {
       "score": 0,
@@ -46884,6 +46884,21 @@
       "score": 33530,
       "date": "2022-10-11 22:01:59.840839",
       "max_times": 3
+    },
+    "scalability": {
+      "score": 500,
+      "date": "2022-10-11 22:05:37.323008",
+      "max_times": 0
+    },
+    "infrastructure": {
+      "score": 33530,
+      "date": "2022-10-11 22:06:28.249425",
+      "max_times": 2
+    },
+    "outage": {
+      "score": 33530,
+      "date": "2022-10-11 22:10:00.294728",
+      "max_times": 4
     }
   },
   "__LastUpdate__": "2022-10-11 20:05:16.237278"
