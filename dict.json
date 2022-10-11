@@ -6626,9 +6626,9 @@
       "max_times": 0
     },
     "compel": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.240396",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 22:00:40.155325",
+      "max_times": 3
     },
     "compelling": {
       "score": 0,
@@ -9826,9 +9826,9 @@
       "max_times": 0
     },
     "deter": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.241792",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 22:02:37.886015",
+      "max_times": 7
     },
     "detergent": {
       "score": 0,
@@ -18066,9 +18066,9 @@
       "max_times": 0
     },
     "illicit": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.245486",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 22:03:06.475037",
+      "max_times": 7
     },
     "illiterate": {
       "score": 21306,
@@ -26521,9 +26521,9 @@
       "max_times": 0
     },
     "persecute": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.249209",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 22:00:24.967051",
+      "max_times": 6
     },
     "persiflage": {
       "score": 0,
@@ -30601,9 +30601,9 @@
       "max_times": 0
     },
     "resilient": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.251035",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 22:03:53.043643",
+      "max_times": 4
     },
     "resin": {
       "score": 0,
@@ -36171,9 +36171,9 @@
       "max_times": 0
     },
     "testify": {
-      "score": 20334,
-      "date": "2022-10-11 20:05:16.253569",
-      "max_times": 7
+      "score": 33530,
+      "date": "2022-10-11 22:01:04.319111",
+      "max_times": 8
     },
     "testimony": {
       "score": 21306,
@@ -46687,8 +46687,8 @@
     },
     "procedure": {
       "score": 33530,
-      "date": "2022-10-11 20:16:05.072557",
-      "max_times": 8
+      "date": "2022-10-11 22:01:25.470310",
+      "max_times": 10
     },
     "product": {
       "score": 33530,
@@ -46879,6 +46879,11 @@
       "score": 33530,
       "date": "2022-10-11 21:59:00.186738",
       "max_times": 2
+    },
+    "criminalize": {
+      "score": 33530,
+      "date": "2022-10-11 22:01:59.840839",
+      "max_times": 3
     }
   },
   "__LastUpdate__": "2022-10-11 20:05:16.237278"
