@@ -18371,9 +18371,9 @@
       "max_times": 0
     },
     "impetus": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.245619",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 21:54:34.252219",
+      "max_times": 6
     },
     "impinge": {
       "score": 0,
@@ -45796,9 +45796,9 @@
       "max_times": 0
     },
     "assembly": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.257861",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 21:53:06.707579",
+      "max_times": 5
     },
     "composition": {
       "score": 0,
@@ -46839,6 +46839,21 @@
       "score": 33530,
       "date": "2022-10-11 20:56:42.879875",
       "max_times": 8
+    },
+    "trafficking": {
+      "score": 33530,
+      "date": "2022-10-11 21:52:46.099530",
+      "max_times": 2
+    },
+    "resolution": {
+      "score": 33530,
+      "date": "2022-10-11 21:53:35.426405",
+      "max_times": 4
+    },
+    "parliamentary": {
+      "score": 33530,
+      "date": "2022-10-11 21:54:09.990032",
+      "max_times": 3
     }
   },
   "__LastUpdate__": "2022-10-11 20:05:16.237278"
