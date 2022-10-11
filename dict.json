@@ -19687,8 +19687,8 @@
     },
     "institution": {
       "score": 33530,
-      "date": "2022-10-11 20:20:00.539316",
-      "max_times": 3
+      "date": "2022-10-11 20:20:03.339460",
+      "max_times": 4
     },
     "institutionalized": {
       "score": 0,
@@ -28531,9 +28531,9 @@
       "max_times": 0
     },
     "prospect": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.250125",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:21:55.850536",
+      "max_times": 6
     },
     "prosperity": {
       "score": 0,
@@ -28566,9 +28566,9 @@
       "max_times": 0
     },
     "protocol": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.250140",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:22:10.676424",
+      "max_times": 3
     },
     "prototype": {
       "score": 0,
@@ -28661,9 +28661,9 @@
       "max_times": 0
     },
     "proximate": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.250183",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:22:28.846167",
+      "max_times": 7
     },
     "prude": {
       "score": 0,
@@ -41671,9 +41671,9 @@
       "max_times": 0
     },
     "insure": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.255987",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 20:20:46.627270",
+      "max_times": 6
     },
     "dwell": {
       "score": 0,
@@ -46704,6 +46704,21 @@
       "score": 33530,
       "date": "2022-10-11 20:18:43.872653",
       "max_times": 4
+    },
+    "insurance": {
+      "score": 33530,
+      "date": "2022-10-11 20:20:21.885598",
+      "max_times": 5
+    },
+    "proper": {
+      "score": 33530,
+      "date": "2022-10-11 20:21:12.689217",
+      "max_times": 6
+    },
+    "proportion": {
+      "score": 33530,
+      "date": "2022-10-11 20:21:32.601721",
+      "max_times": 5
     }
   },
   "__LastUpdate__": "2022-10-11 20:05:16.237278"
