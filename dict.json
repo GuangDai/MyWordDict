@@ -13626,9 +13626,9 @@
       "max_times": 0
     },
     "facilitate": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.243555",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 21:55:55.670285",
+      "max_times": 5
     },
     "facilities": {
       "score": 0,
@@ -40116,9 +40116,9 @@
       "max_times": 0
     },
     "territory": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.255296",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 21:59:27.738773",
+      "max_times": 6
     },
     "imaginary": {
       "score": 0,
@@ -40476,9 +40476,9 @@
       "max_times": 0
     },
     "discrimination": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.255455",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 21:59:59.527874",
+      "max_times": 2
     },
     "redistricting": {
       "score": 0,
@@ -42681,9 +42681,9 @@
       "max_times": 0
     },
     "parliament": {
-      "score": 0,
-      "date": "2022-10-11 20:05:16.256475",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-11 21:55:25.970065",
+      "max_times": 7
     },
     "diplomacy": {
       "score": 0,
@@ -46854,6 +46854,31 @@
       "score": 33530,
       "date": "2022-10-11 21:54:09.990032",
       "max_times": 3
+    },
+    "delegation": {
+      "score": 33530,
+      "date": "2022-10-11 21:56:36.583367",
+      "max_times": 6
+    },
+    "whip": {
+      "score": 33530,
+      "date": "2022-10-11 21:57:08.844955",
+      "max_times": 6
+    },
+    "suppress": {
+      "score": 33530,
+      "date": "2022-10-11 21:58:03.430222",
+      "max_times": 4
+    },
+    "supress": {
+      "score": 500,
+      "date": "2022-10-11 21:57:52.089260",
+      "max_times": 0
+    },
+    "unaccompanied": {
+      "score": 33530,
+      "date": "2022-10-11 21:59:00.186738",
+      "max_times": 2
     }
   },
   "__LastUpdate__": "2022-10-11 20:05:16.237278"
