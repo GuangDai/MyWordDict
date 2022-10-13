@@ -22576,9 +22576,9 @@
       "max_times": 0
     },
     "mechanical": {
-      "score": 0,
-      "date": "2022-10-13 20:14:40.292865",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-13 20:55:59.174403",
+      "max_times": 5
     },
     "mechanics": {
       "score": 0,
@@ -22586,9 +22586,9 @@
       "max_times": 0
     },
     "mechanism": {
-      "score": 0,
-      "date": "2022-10-13 20:14:40.292869",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-13 20:58:36.866541",
+      "max_times": 3
     },
     "medal": {
       "score": 0,
@@ -47133,6 +47133,16 @@
     "knob": {
       "score": 33530,
       "date": "2022-10-13 20:55:00.636121",
+      "max_times": 6
+    },
+    "league": {
+      "score": 33530,
+      "date": "2022-10-13 20:55:13.323643",
+      "max_times": 4
+    },
+    "mechanic": {
+      "score": 33530,
+      "date": "2022-10-13 20:55:34.080267",
       "max_times": 6
     }
   },
