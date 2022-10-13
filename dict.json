@@ -24261,9 +24261,9 @@
       "max_times": 0
     },
     "nominate": {
-      "score": 0,
-      "date": "2022-10-13 20:14:40.293569",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-13 21:07:01.598669",
+      "max_times": 7
     },
     "nonchalance": {
       "score": 0,
@@ -30031,9 +30031,9 @@
       "max_times": 0
     },
     "reign": {
-      "score": 0,
-      "date": "2022-10-13 20:14:40.296099",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-13 21:09:11.218212",
+      "max_times": 7
     },
     "reimburse": {
       "score": 0,
@@ -30041,9 +30041,9 @@
       "max_times": 0
     },
     "rein": {
-      "score": 0,
-      "date": "2022-10-13 20:14:40.296103",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-13 21:09:25.293576",
+      "max_times": 9
     },
     "reincarnate": {
       "score": 0,
@@ -30051,9 +30051,9 @@
       "max_times": 0
     },
     "reinforce": {
-      "score": 0,
-      "date": "2022-10-13 20:14:40.296107",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-13 21:09:50.329945",
+      "max_times": 5
     },
     "reinstate": {
       "score": 0,
@@ -42191,9 +42191,9 @@
       "max_times": 0
     },
     "regard": {
-      "score": 0,
-      "date": "2022-10-13 20:14:40.301152",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-13 21:08:09.219867",
+      "max_times": 1
     },
     "vanish": {
       "score": 0,
@@ -47143,6 +47143,16 @@
     "mechanic": {
       "score": 33530,
       "date": "2022-10-13 20:55:34.080267",
+      "max_times": 6
+    },
+    "plentiful": {
+      "score": 33530,
+      "date": "2022-10-13 21:07:14.485020",
+      "max_times": 2
+    },
+    "register": {
+      "score": 33530,
+      "date": "2022-10-13 21:08:29.093292",
       "max_times": 6
     }
   },
