@@ -16396,9 +16396,9 @@
       "max_times": 0
     },
     "grave": {
-      "score": 0,
-      "date": "2022-10-13 20:14:40.290295",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-13 21:20:39.593418",
+      "max_times": 7
     },
     "gravel": {
       "score": 0,
@@ -19361,14 +19361,14 @@
       "max_times": 0
     },
     "inhabitant": {
-      "score": 0,
-      "date": "2022-10-13 20:14:40.291526",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-13 21:21:11.893131",
+      "max_times": 6
     },
     "inhale": {
-      "score": 0,
-      "date": "2022-10-13 20:14:40.291528",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-13 21:21:26.705803",
+      "max_times": 7
     },
     "inherently": {
       "score": 0,
@@ -30131,9 +30131,9 @@
       "max_times": 0
     },
     "reliance": {
-      "score": 0,
-      "date": "2022-10-13 20:14:40.296140",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-13 21:24:41.940730",
+      "max_times": 1
     },
     "relic": {
       "score": 0,
@@ -36931,9 +36931,9 @@
       "max_times": 0
     },
     "tremendous": {
-      "score": 0,
-      "date": "2022-10-13 20:14:40.298960",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-13 21:22:28.231980",
+      "max_times": 5
     },
     "tremor": {
       "score": 0,
@@ -45556,9 +45556,9 @@
       "max_times": 0
     },
     "executive": {
-      "score": 0,
-      "date": "2022-10-13 20:14:40.302618",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-13 21:23:06.888120",
+      "max_times": 6
     },
     "annual": {
       "score": 0,
@@ -47219,6 +47219,16 @@
       "score": 500,
       "date": "2022-10-13 21:17:59.466120",
       "max_times": 0
+    },
+    "medicine": {
+      "score": 33530,
+      "date": "2022-10-13 21:21:35.492990",
+      "max_times": 2
+    },
+    "negligible": {
+      "score": 33530,
+      "date": "2022-10-13 21:24:08.600734",
+      "max_times": 2
     }
   },
   "__LastUpdate__": "2022-10-13 20:14:40.283531"
