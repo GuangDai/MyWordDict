@@ -12342,8 +12342,8 @@
     },
     "enormous": {
       "score": 33530,
-      "date": "2022-10-15 21:12:39.629520",
-      "max_times": 6
+      "date": "2022-10-15 21:17:14.319570",
+      "max_times": 8
     },
     "enrage": {
       "score": 0,
@@ -16441,9 +16441,9 @@
       "max_times": 0
     },
     "greenhouse": {
-      "score": 0,
-      "date": "2022-10-15 20:16:19.571913",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-15 21:18:31.997140",
+      "max_times": 6
     },
     "gregarious": {
       "score": 0,
@@ -21161,9 +21161,9 @@
       "max_times": 0
     },
     "legend": {
-      "score": 0,
-      "date": "2022-10-15 20:16:19.573921",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-15 21:16:49.281687",
+      "max_times": 6
     },
     "legerdemain": {
       "score": 0,
@@ -27351,9 +27351,9 @@
       "max_times": 0
     },
     "polar": {
-      "score": 0,
-      "date": "2022-10-15 20:16:19.576609",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-15 21:17:05.194247",
+      "max_times": 10
     },
     "polarity": {
       "score": 0,
@@ -33531,9 +33531,9 @@
       "max_times": 0
     },
     "snobbish": {
-      "score": 0,
-      "date": "2022-10-15 20:16:19.579904",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-15 21:19:12.383114",
+      "max_times": 7
     },
     "snooze": {
       "score": 0,
@@ -47459,6 +47459,36 @@
       "score": 33530,
       "date": "2022-10-15 21:14:51.230266",
       "max_times": 7
+    },
+    "inn": {
+      "score": 33530,
+      "date": "2022-10-15 21:15:55.431281",
+      "max_times": 9
+    },
+    "innumerable": {
+      "score": 33530,
+      "date": "2022-10-15 21:16:34.956931",
+      "max_times": 9
+    },
+    "sniff": {
+      "score": 33530,
+      "date": "2022-10-15 21:18:44.596487",
+      "max_times": 9
+    },
+    "detective": {
+      "score": 33530,
+      "date": "2022-10-15 21:19:30.596253",
+      "max_times": 6
+    },
+    "detector": {
+      "score": 33530,
+      "date": "2022-10-15 21:19:44.046222",
+      "max_times": 4
+    },
+    "fixture": {
+      "score": 500,
+      "date": "2022-10-15 21:19:52.733880",
+      "max_times": 0
     }
   },
   "__LastUpdate__": "2022-10-15 20:16:19.564705"
