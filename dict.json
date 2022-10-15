@@ -6386,9 +6386,9 @@
       "max_times": 0
     },
     "colony": {
-      "score": 0,
-      "date": "2022-10-15 20:16:19.567574",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-15 21:42:38.821625",
+      "max_times": 5
     },
     "coloration": {
       "score": 0,
@@ -12436,9 +12436,9 @@
       "max_times": 0
     },
     "entitle": {
-      "score": 0,
-      "date": "2022-10-15 20:16:19.570218",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-15 21:45:00.723393",
+      "max_times": 6
     },
     "entity": {
       "score": 0,
@@ -14452,8 +14452,8 @@
     },
     "flatter": {
       "score": 33530,
-      "date": "2022-10-15 21:24:44.086169",
-      "max_times": 9
+      "date": "2022-10-15 21:44:02.922835",
+      "max_times": 11
     },
     "flatulence": {
       "score": 0,
@@ -40866,9 +40866,9 @@
       "max_times": 0
     },
     "enthusiastic": {
-      "score": 0,
-      "date": "2022-10-15 20:16:19.586732",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-15 21:43:56.534993",
+      "max_times": 2
     },
     "lame": {
       "score": 1943,
@@ -43767,8 +43767,8 @@
     },
     "colonial": {
       "score": 33530,
-      "date": "2022-10-15 21:31:03.474896",
-      "max_times": 4
+      "date": "2022-10-15 21:42:16.571265",
+      "max_times": 6
     },
     "distrust": {
       "score": 0,
@@ -47513,6 +47513,11 @@
     "scholarship": {
       "score": 33530,
       "date": "2022-10-15 21:30:09.020068",
+      "max_times": 4
+    },
+    "enthusiasm": {
+      "score": 33530,
+      "date": "2022-10-15 21:43:01.221626",
       "max_times": 4
     }
   },
