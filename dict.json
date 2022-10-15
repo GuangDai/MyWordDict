@@ -9726,9 +9726,9 @@
       "max_times": 0
     },
     "desolate": {
-      "score": 0,
-      "date": "2022-10-15 20:16:19.569012",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-15 21:11:39.080413",
+      "max_times": 9
     },
     "desperado": {
       "score": 0,
@@ -12341,9 +12341,9 @@
       "max_times": 0
     },
     "enormous": {
-      "score": 0,
-      "date": "2022-10-15 20:16:19.570176",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-15 21:12:39.629520",
+      "max_times": 6
     },
     "enrage": {
       "score": 0,
@@ -47433,6 +47433,31 @@
     "bet": {
       "score": 33530,
       "date": "2022-10-15 21:09:34.058824",
+      "max_times": 7
+    },
+    "clutch": {
+      "score": 33530,
+      "date": "2022-10-15 21:11:13.415922",
+      "max_times": 11
+    },
+    "destiny": {
+      "score": 33530,
+      "date": "2022-10-15 21:11:58.679122",
+      "max_times": 7
+    },
+    "destructive": {
+      "score": 33530,
+      "date": "2022-10-15 21:12:16.905685",
+      "max_times": 3
+    },
+    "enquire": {
+      "score": 33530,
+      "date": "2022-10-15 21:14:56.205778",
+      "max_times": 8
+    },
+    "inquire": {
+      "score": 33530,
+      "date": "2022-10-15 21:14:51.230266",
       "max_times": 7
     }
   },
