@@ -25151,9 +25151,9 @@
       "max_times": 0
     },
     "orient": {
-      "score": 0,
-      "date": "2022-10-16 20:04:00.190692",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-16 20:05:58.564871",
+      "max_times": 6
     },
     "orifice": {
       "score": 0,
@@ -27566,8 +27566,8 @@
       "max_times": 0
     },
     "poster": {
-      "score": 0,
-      "date": "2022-10-16 20:04:00.192751",
+      "score": 267,
+      "date": "2022-10-16 20:07:18.094409",
       "max_times": 0
     },
     "posterior": {
@@ -40561,9 +40561,9 @@
       "max_times": 0
     },
     "orientation": {
-      "score": 0,
-      "date": "2022-10-16 20:04:00.204199",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-16 20:06:33.723238",
+      "max_times": 2
     },
     "consistently": {
       "score": 0,
@@ -44421,9 +44421,9 @@
       "max_times": 0
     },
     "portrait": {
-      "score": 0,
-      "date": "2022-10-16 20:04:00.208071",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-16 20:07:12.473496",
+      "max_times": 3
     },
     "misconception": {
       "score": 0,
@@ -47554,6 +47554,16 @@
       "score": 33530,
       "date": "2022-10-16 20:04:22.961350",
       "max_times": 8
+    },
+    "orderly": {
+      "score": 33530,
+      "date": "2022-10-16 20:05:34.187446",
+      "max_times": 11
+    },
+    "oriental": {
+      "score": 33530,
+      "date": "2022-10-16 20:06:16.175398",
+      "max_times": 5
     }
   },
   "__LastUpdate__": "2022-10-16 20:04:00.167042"
