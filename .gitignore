@@ -1,2 +1,9 @@
 Back/
 .git
+dict.json.bak
+git.sh
+output/
+plant.py
+tg_words_file.py
+tts.py
+word_tg.py
