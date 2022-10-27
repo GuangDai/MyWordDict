@@ -36,9 +36,9 @@
       "max_times": 10
     },
     "auxiliary": {
-      "score": 5942,
-      "date": "2022-10-27 20:37:29.016834",
-      "max_times": 13
+      "score": 33530,
+      "date": "2022-10-27 22:02:18.238267",
+      "max_times": 15
     },
     "bizarre": {
       "score": 0,
@@ -691,9 +691,9 @@
       "max_times": 9
     },
     "norm": {
-      "score": 0,
-      "date": "2022-10-27 20:37:29.017200",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-27 22:03:06.265918",
+      "max_times": 5
     },
     "omit": {
       "score": 21980,
@@ -927,8 +927,8 @@
     },
     "scorn": {
       "score": 33530,
-      "date": "2022-10-27 21:47:48.906904",
-      "max_times": 19
+      "date": "2022-10-27 22:03:30.901265",
+      "max_times": 23
     },
     "shaft": {
       "score": 22143,
@@ -1051,9 +1051,9 @@
       "max_times": 0
     },
     "swarm": {
-      "score": 6081,
-      "date": "2022-10-27 20:37:29.017423",
-      "max_times": 16
+      "score": 33530,
+      "date": "2022-10-27 22:00:43.295492",
+      "max_times": 22
     },
     "tackle": {
       "score": 6051,
@@ -1126,14 +1126,14 @@
       "max_times": 0
     },
     "tumble": {
-      "score": 14523,
-      "date": "2022-10-27 20:37:29.017460",
-      "max_times": 17
+      "score": 33530,
+      "date": "2022-10-27 22:00:51.984891",
+      "max_times": 19
     },
     "turbulent": {
-      "score": 6123,
-      "date": "2022-10-27 20:37:29.017463",
-      "max_times": 19
+      "score": 33530,
+      "date": "2022-10-27 22:01:14.214322",
+      "max_times": 25
     },
     "underlying": {
       "score": 0,
@@ -1231,9 +1231,9 @@
       "max_times": 0
     },
     "vulgar": {
-      "score": 6114,
-      "date": "2022-10-27 20:37:29.017510",
-      "max_times": 18
+      "score": 33530,
+      "date": "2022-10-27 22:01:33.448091",
+      "max_times": 23
     },
     "vulpine": {
       "score": 0,
@@ -1716,9 +1716,9 @@
       "max_times": 0
     },
     "avail": {
-      "score": 0,
-      "date": "2022-10-27 20:37:29.017776",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-27 22:02:44.763962",
+      "max_times": 7
     },
     "due": {
       "score": 0,
@@ -18221,9 +18221,9 @@
       "max_times": 0
     },
     "surveillance": {
-      "score": 0,
-      "date": "2022-10-27 20:37:29.025881",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-27 22:00:23.913817",
+      "max_times": 3
     },
     "suspend": {
       "score": 0,
@@ -18241,9 +18241,9 @@
       "max_times": 0
     },
     "vulnerable": {
-      "score": 0,
-      "date": "2022-10-27 20:37:29.025919",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-27 22:02:04.268201",
+      "max_times": 5
     },
     "dynamic": {
       "score": 0,
