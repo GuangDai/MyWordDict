@@ -566,9 +566,9 @@
       "max_times": 0
     },
     "invoke": {
-      "score": 0,
-      "date": "2022-10-27 20:37:29.017137",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-27 21:58:55.952218",
+      "max_times": 3
     },
     "juvenile": {
       "score": 1943,
@@ -1701,9 +1701,9 @@
       "max_times": 0
     },
     "extravagant": {
-      "score": 0,
-      "date": "2022-10-27 20:37:29.017769",
-      "max_times": 4
+      "score": 33530,
+      "date": "2022-10-27 21:56:01.946152",
+      "max_times": 5
     },
     "savour": {
       "score": 22038,
@@ -4381,9 +4381,9 @@
       "max_times": 4
     },
     "surplus": {
-      "score": 0,
-      "date": "2022-10-27 20:37:29.019146",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-27 21:59:56.537556",
+      "max_times": 7
     },
     "pad": {
       "score": 0,
@@ -7536,8 +7536,8 @@
       "max_times": 0
     },
     "purse": {
-      "score": 0,
-      "date": "2022-10-27 20:37:29.020539",
+      "score": 111,
+      "date": "2022-10-27 21:59:20.986017",
       "max_times": 0
     },
     "undergraduate": {
@@ -18191,9 +18191,9 @@
       "max_times": 0
     },
     "skeptical": {
-      "score": 0,
-      "date": "2022-10-27 20:37:29.025867",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-27 21:55:13.817309",
+      "max_times": 1
     },
     "currency": {
       "score": 0,
@@ -18206,9 +18206,9 @@
       "max_times": 0
     },
     "pursue": {
-      "score": 0,
-      "date": "2022-10-27 20:37:29.025874",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-27 21:59:28.122401",
+      "max_times": 6
     },
     "persuit": {
       "score": 0,
@@ -19274,6 +19274,11 @@
       "score": 500,
       "date": "2022-10-27 21:49:45.482930",
       "max_times": 0
+    },
+    "sceptical": {
+      "score": 33530,
+      "date": "2022-10-27 21:55:28.009642",
+      "max_times": 3
     }
   },
   "__LastUpdate__": "2022-10-27 20:37:29.016792"
