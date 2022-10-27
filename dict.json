@@ -117,8 +117,8 @@
     },
     "colonel": {
       "score": 33530,
-      "date": "2022-10-27 17:02:02.762608",
-      "max_times": 16
+      "date": "2022-10-27 17:02:03.732519",
+      "max_times": 18
     },
     "colony": {
       "score": 0,
@@ -2826,9 +2826,9 @@
       "max_times": 0
     },
     "stagnant": {
-      "score": 14228,
-      "date": "2022-10-26 20:52:58.482112",
-      "max_times": 12
+      "score": 33530,
+      "date": "2022-10-27 17:03:51.931939",
+      "max_times": 16
     },
     "trademark": {
       "score": 9175,
@@ -3376,9 +3376,9 @@
       "max_times": 0
     },
     "plow": {
-      "score": 17009,
-      "date": "2022-10-26 20:52:58.482757",
-      "max_times": 4
+      "score": 33530,
+      "date": "2022-10-27 17:03:08.916633",
+      "max_times": 12
     },
     "bake": {
       "score": 0,
@@ -4616,9 +4616,9 @@
       "max_times": 0
     },
     "occurrence": {
-      "score": 17009,
-      "date": "2022-10-26 20:52:58.484226",
-      "max_times": 4
+      "score": 33530,
+      "date": "2022-10-27 17:03:07.632353",
+      "max_times": 12
     },
     "radiation": {
       "score": 0,
@@ -8837,8 +8837,8 @@
     },
     "dread": {
       "score": 33530,
-      "date": "2022-10-27 08:11:56.536493",
-      "max_times": 2
+      "date": "2022-10-27 17:02:07.269995",
+      "max_times": 8
     },
     "transient": {
       "score": 0,
@@ -10501,9 +10501,9 @@
       "max_times": 0
     },
     "temporary": {
-      "score": 17009,
-      "date": "2022-10-26 20:52:58.492034",
-      "max_times": 4
+      "score": 33530,
+      "date": "2022-10-27 17:03:13.401819",
+      "max_times": 6
     },
     "upcoming": {
       "score": 0,
@@ -12011,9 +12011,9 @@
       "max_times": 0
     },
     "riot": {
-      "score": 3379,
-      "date": "2022-10-26 20:52:58.493926",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-27 17:02:31.777204",
+      "max_times": 8
     },
     "fluent": {
       "score": 0,
