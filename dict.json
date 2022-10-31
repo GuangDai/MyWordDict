@@ -1101,9 +1101,9 @@
       "max_times": 16
     },
     "thrust": {
-      "score": 6114,
-      "date": "2022-10-31 21:41:40.215247",
-      "max_times": 18
+      "score": 33530,
+      "date": "2022-10-31 21:45:39.451039",
+      "max_times": 20
     },
     "tire": {
       "score": 10049,
@@ -1211,9 +1211,9 @@
       "max_times": 12
     },
     "volatile": {
-      "score": 13819,
-      "date": "2022-10-31 21:41:40.215391",
-      "max_times": 10
+      "score": 33530,
+      "date": "2022-10-31 21:45:59.379341",
+      "max_times": 12
     },
     "volley": {
       "score": 0,
@@ -2836,9 +2836,9 @@
       "max_times": 12
     },
     "consensus": {
-      "score": 9175,
-      "date": "2022-10-31 21:41:40.217892",
-      "max_times": 12
+      "score": 33530,
+      "date": "2022-10-31 21:47:53.371289",
+      "max_times": 14
     },
     "consultant": {
       "score": 4177,
@@ -2856,19 +2856,19 @@
       "max_times": 5
     },
     "pension": {
-      "score": 8777,
-      "date": "2022-10-31 21:41:40.217938",
-      "max_times": 10
+      "score": 33530,
+      "date": "2022-10-31 21:48:12.458857",
+      "max_times": 13
     },
     "permeate": {
-      "score": 22152,
-      "date": "2022-10-31 21:41:40.217950",
-      "max_times": 28
+      "score": 33530,
+      "date": "2022-10-31 21:49:22.671641",
+      "max_times": 29
     },
     "quantify": {
-      "score": 7304,
-      "date": "2022-10-31 21:41:40.217961",
-      "max_times": 7
+      "score": 33530,
+      "date": "2022-10-31 21:49:29.694903",
+      "max_times": 8
     },
     "radioactive": {
       "score": 5386,
@@ -2886,9 +2886,9 @@
       "max_times": 3
     },
     "sentiment": {
-      "score": 14538,
-      "date": "2022-10-31 21:41:40.218008",
-      "max_times": 18
+      "score": 33530,
+      "date": "2022-10-31 21:49:39.184582",
+      "max_times": 20
     },
     "session": {
       "score": 6445,
@@ -15997,8 +15997,8 @@
     },
     "chronic": {
       "score": 33530,
-      "date": "2022-10-31 21:44:59.783471",
-      "max_times": 1
+      "date": "2022-10-31 21:45:09.050605",
+      "max_times": 5
     },
     "outrage": {
       "score": 15233,
@@ -16046,9 +16046,9 @@
       "max_times": 0
     },
     "lid": {
-      "score": 0,
-      "date": "2022-10-31 21:41:40.225485",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-10-31 21:46:58.545518",
+      "max_times": 8
     },
     "inhibit": {
       "score": 0,
@@ -16071,8 +16071,8 @@
       "max_times": 0
     },
     "bibliography": {
-      "score": 0,
-      "date": "2022-10-31 21:41:40.225495",
+      "score": 22961,
+      "date": "2022-10-31 21:46:37.508141",
       "max_times": 0
     },
     "unprecedented": {
@@ -16186,9 +16186,9 @@
       "max_times": 0
     },
     "compartment": {
-      "score": 4177,
-      "date": "2022-10-31 21:41:40.225574",
-      "max_times": 4
+      "score": 33530,
+      "date": "2022-10-31 21:47:32.495976",
+      "max_times": 7
     },
     "cattle": {
       "score": 0,
