@@ -1511,9 +1511,9 @@
       "max_times": 0
     },
     "tumor": {
-      "score": 2117,
-      "date": "2022-11-04 20:35:03.213220",
-      "max_times": 11
+      "score": 33530,
+      "date": "2022-11-04 21:52:04.011939",
+      "max_times": 13
     },
     "durable": {
       "score": 0,
@@ -19176,9 +19176,9 @@
       "max_times": 18
     },
     "deaf": {
-      "score": 10049,
-      "date": "2022-11-04 20:35:03.238207",
-      "max_times": 5
+      "score": 33530,
+      "date": "2022-11-04 21:52:07.035483",
+      "max_times": 7
     },
     "fantastical": {
       "score": 11293,
