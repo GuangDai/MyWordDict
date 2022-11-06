@@ -2602,8 +2602,8 @@
     },
     "torment": {
       "score": 33530,
-      "date": "2022-11-06 10:20:46.942894",
-      "max_times": 24
+      "date": "2022-11-06 10:30:07.032979",
+      "max_times": 26
     },
     "torrent": {
       "score": 2117,
@@ -6416,9 +6416,9 @@
       "max_times": 0
     },
     "amplify": {
-      "score": 9175,
-      "date": "2022-11-04 20:35:03.221224",
-      "max_times": 12
+      "score": 33530,
+      "date": "2022-11-06 10:30:03.415345",
+      "max_times": 14
     },
     "fellowship": {
       "score": 0,
@@ -16246,9 +16246,9 @@
       "max_times": 0
     },
     "despair": {
-      "score": 3592,
-      "date": "2022-11-04 20:35:03.232487",
-      "max_times": 6
+      "score": 33530,
+      "date": "2022-11-06 10:32:01.646771",
+      "max_times": 8
     },
     "hindrance": {
       "score": 0,
