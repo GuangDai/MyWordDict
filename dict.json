@@ -493,7 +493,7 @@
     "impetus": {
       "score": 33530,
       "date": "2022-11-08 21:54:42.360628",
-      "max_times": 25
+      "max_times": 30
     },
     "incentive": {
       "score": 33530,
@@ -1566,9 +1566,9 @@
       "max_times": 7
     },
     "portrait": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.471238",
-      "max_times": 0
+      "max_times": 5
     },
     "civilise": {
       "score": 0,
@@ -2421,9 +2421,9 @@
       "max_times": 0
     },
     "sole": {
-      "score": 1053,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.472832",
-      "max_times": 6
+      "max_times": 11
     },
     "historian": {
       "score": 0,
@@ -3451,9 +3451,9 @@
       "max_times": 0
     },
     "fireplace": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.476266",
-      "max_times": 0
+      "max_times": 5
     },
     "insatiable": {
       "score": 0,
@@ -3971,9 +3971,9 @@
       "max_times": 0
     },
     "incompetent": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.476886",
-      "max_times": 0
+      "max_times": 5
     },
     "devote": {
       "score": 0,
@@ -5351,9 +5351,9 @@
       "max_times": 0
     },
     "hygiene": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.478573",
-      "max_times": 0
+      "max_times": 5
     },
     "skillful": {
       "score": 0,
@@ -5381,9 +5381,9 @@
       "max_times": 0
     },
     "treason": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.478602",
-      "max_times": 0
+      "max_times": 5
     },
     "mortgage": {
       "score": 0,
@@ -6076,9 +6076,9 @@
       "max_times": 0
     },
     "oven": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.479462",
-      "max_times": 0
+      "max_times": 5
     },
     "scramble": {
       "score": 0,
@@ -6681,9 +6681,9 @@
       "max_times": 0
     },
     "concert": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.480246",
-      "max_times": 0
+      "max_times": 5
     },
     "rally": {
       "score": 0,
@@ -7796,9 +7796,9 @@
       "max_times": 0
     },
     "inarticulate": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.481535",
-      "max_times": 0
+      "max_times": 5
     },
     "lightning": {
       "score": 0,
@@ -8851,9 +8851,9 @@
       "max_times": 24
     },
     "conversion": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.482527",
-      "max_times": 0
+      "max_times": 5
     },
     "conscience": {
       "score": 0,
@@ -11701,9 +11701,9 @@
       "max_times": 0
     },
     "descendant": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.485460",
-      "max_times": 0
+      "max_times": 5
     },
     "burglar": {
       "score": 0,
@@ -12651,9 +12651,9 @@
       "max_times": 0
     },
     "ventilate": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.486384",
-      "max_times": 0
+      "max_times": 5
     },
     "invest": {
       "score": 0,
@@ -12741,9 +12741,9 @@
       "max_times": 0
     },
     "ambiguous": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.486477",
-      "max_times": 0
+      "max_times": 5
     },
     "economical": {
       "score": 0,
@@ -12801,9 +12801,9 @@
       "max_times": 0
     },
     "toxic": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.486520",
-      "max_times": 0
+      "max_times": 5
     },
     "toxin": {
       "score": 0,
@@ -13301,14 +13301,14 @@
       "max_times": 0
     },
     "reiterate": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.487156",
-      "max_times": 0
+      "max_times": 5
     },
     "restate": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.487159",
-      "max_times": 0
+      "max_times": 5
     },
     "tune": {
       "score": 22153,
@@ -13566,9 +13566,9 @@
       "max_times": 0
     },
     "bind": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.487482",
-      "max_times": 0
+      "max_times": 5
     },
     "verdict": {
       "score": 0,
@@ -15131,9 +15131,9 @@
       "max_times": 0
     },
     "mob": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.488937",
-      "max_times": 0
+      "max_times": 5
     },
     "achieve": {
       "score": 0,
@@ -15761,9 +15761,9 @@
       "max_times": 0
     },
     "surge": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.489488",
-      "max_times": 0
+      "max_times": 5
     },
     "archaeological": {
       "score": 0,
@@ -16221,9 +16221,9 @@
       "max_times": 19
     },
     "misinterpret": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.490099",
-      "max_times": 0
+      "max_times": 5
     },
     "instill": {
       "score": 0,
@@ -16856,9 +16856,9 @@
       "max_times": 0
     },
     "trail": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.490753",
-      "max_times": 0
+      "max_times": 5
     },
     "viewpoint": {
       "score": 0,
@@ -17211,9 +17211,9 @@
       "max_times": 0
     },
     "fund": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.491036",
-      "max_times": 0
+      "max_times": 5
     },
     "associate": {
       "score": 0,
