@@ -2666,9 +2666,9 @@
       "max_times": 3
     },
     "dine": {
-      "score": 6114,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.473626",
-      "max_times": 18
+      "max_times": 23
     },
     "dioxide": {
       "score": 2117,
@@ -6521,9 +6521,9 @@
       "max_times": 0
     },
     "ritual": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.480020",
-      "max_times": 0
+      "max_times": 5
     },
     "textual": {
       "score": 0,
@@ -6726,9 +6726,9 @@
       "max_times": 0
     },
     "culprit": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.480313",
-      "max_times": 0
+      "max_times": 5
     },
     "pepper": {
       "score": 33530,
@@ -8608,7 +8608,7 @@
     "allegiance": {
       "score": 33530,
       "date": "2022-11-08 23:14:09.482262",
-      "max_times": 5
+      "max_times": 10
     },
     "rhythm": {
       "score": 0,
