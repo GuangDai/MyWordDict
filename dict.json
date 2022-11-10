@@ -2101,9 +2101,9 @@
       "max_times": 0
     },
     "slam": {
-      "score": 22152,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.472218",
-      "max_times": 27
+      "max_times": 32
     },
     "slap": {
       "score": 17009,
@@ -2191,9 +2191,9 @@
       "max_times": 0
     },
     "depart": {
-      "score": 3373,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.472392",
-      "max_times": 10
+      "max_times": 8
     },
     "deploy": {
       "score": 0,
@@ -2636,9 +2636,9 @@
       "max_times": 14
     },
     "appetite": {
-      "score": 6114,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.473458",
-      "max_times": 18
+      "max_times": 16
     },
     "company": {
       "score": 0,
@@ -2693,7 +2693,7 @@
     "groan": {
       "score": 33530,
       "date": "2022-11-08 22:21:20.528226",
-      "max_times": 18
+      "max_times": 16
     },
     "grocer": {
       "score": 33530,
@@ -2801,7 +2801,7 @@
       "max_times": 0
     },
     "missionary": {
-      "score": 111,
+      "score": 0,
       "date": "2022-11-08 23:14:09.474691",
       "max_times": 0
     },
@@ -3151,9 +3151,9 @@
       "max_times": 0
     },
     "dictate": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.475916",
-      "max_times": 0
+      "max_times": 5
     },
     "marvellous": {
       "score": 0,
@@ -3511,9 +3511,9 @@
       "max_times": 0
     },
     "superstitious": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.476323",
-      "max_times": 0
+      "max_times": 5
     },
     "cast": {
       "score": 0,
@@ -3551,9 +3551,9 @@
       "max_times": 0
     },
     "substantially": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.476361",
-      "max_times": 0
+      "max_times": 5
     },
     "outer": {
       "score": 33530,
@@ -4126,9 +4126,9 @@
       "max_times": 16
     },
     "glamorous": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.477104",
-      "max_times": 0
+      "max_times": 5
     },
     "suburb": {
       "score": 0,
@@ -4268,7 +4268,7 @@
     "liberate": {
       "score": 33530,
       "date": "2022-11-08 23:14:09.477250",
-      "max_times": 5
+      "max_times": 3
     },
     "harsh": {
       "score": 0,
@@ -5531,9 +5531,9 @@
       "max_times": 0
     },
     "imperial": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.478784",
-      "max_times": 0
+      "max_times": 5
     },
     "leak": {
       "score": 0,
@@ -8906,7 +8906,7 @@
       "max_times": 5
     },
     "horrify": {
-      "score": 574,
+      "score": 0,
       "date": "2022-11-08 23:14:09.482600",
       "max_times": 0
     },
@@ -10286,7 +10286,7 @@
       "max_times": 0
     },
     "inequality": {
-      "score": 574,
+      "score": 0,
       "date": "2022-11-08 23:14:09.484038",
       "max_times": 0
     },
@@ -11786,9 +11786,9 @@
       "max_times": 5
     },
     "magistrate": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.485521",
-      "max_times": 0
+      "max_times": 5
     },
     "hostage": {
       "score": 0,
@@ -12446,9 +12446,9 @@
       "max_times": 0
     },
     "prophet": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.486140",
-      "max_times": 0
+      "max_times": 5
     },
     "oblige": {
       "score": 0,
@@ -14408,7 +14408,7 @@
     "momentum": {
       "score": 33530,
       "date": "2022-11-08 23:14:09.488230",
-      "max_times": 5
+      "max_times": 8
     },
     "generate": {
       "score": 0,
@@ -15291,9 +15291,9 @@
       "max_times": 0
     },
     "hip": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.489068",
-      "max_times": 0
+      "max_times": 5
     },
     "exploit": {
       "score": 0,
@@ -15346,9 +15346,9 @@
       "max_times": 0
     },
     "prevalent": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.489122",
-      "max_times": 0
+      "max_times": 5
     },
     "mischief": {
       "score": 0,
@@ -15503,7 +15503,7 @@
     "cultivate": {
       "score": 33530,
       "date": "2022-11-08 23:14:09.489265",
-      "max_times": 5
+      "max_times": 3
     },
     "dominance": {
       "score": 0,
@@ -15561,9 +15561,9 @@
       "max_times": 0
     },
     "intermittent": {
-      "score": 9510,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.489326",
-      "max_times": 26
+      "max_times": 24
     },
     "frank": {
       "score": 0,
@@ -15576,9 +15576,9 @@
       "max_times": 0
     },
     "consolidate": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.489336",
-      "max_times": 0
+      "max_times": 5
     },
     "entity": {
       "score": 0,
@@ -16461,9 +16461,9 @@
       "max_times": 0
     },
     "nasty": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.490411",
-      "max_times": 0
+      "max_times": 5
     },
     "overlap": {
       "score": 0,
@@ -16831,9 +16831,9 @@
       "max_times": 0
     },
     "premise": {
-      "score": 0,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.490723",
-      "max_times": 0
+      "max_times": 5
     },
     "premium": {
       "score": 0,
@@ -17213,7 +17213,7 @@
     "fund": {
       "score": 33530,
       "date": "2022-11-08 23:14:09.491036",
-      "max_times": 5
+      "max_times": 3
     },
     "associate": {
       "score": 0,
@@ -18081,9 +18081,9 @@
       "max_times": 0
     },
     "accessory": {
-      "score": 20907,
+      "score": 33530,
       "date": "2022-11-08 23:14:09.491849",
-      "max_times": 8
+      "max_times": 6
     },
     "channel": {
       "score": 0,
