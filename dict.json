@@ -4616,9 +4616,9 @@
       "max_times": 0
     },
     "occurrence": {
-      "score": 5846,
-      "date": "2022-11-08 23:14:09.477744",
-      "max_times": 12
+      "score": 33530,
+      "date": "2022-11-13 17:59:48.646489",
+      "max_times": 18
     },
     "radiation": {
       "score": 0,
@@ -16381,9 +16381,9 @@
       "max_times": 0
     },
     "substantial": {
-      "score": 1913,
-      "date": "2022-11-08 23:14:09.490350",
-      "max_times": 4
+      "score": 33530,
+      "date": "2022-11-13 17:59:41.898281",
+      "max_times": 6
     },
     "substitute": {
       "score": 0,
@@ -18756,9 +18756,9 @@
       "max_times": 17
     },
     "manoeuvre": {
-      "score": 22138,
-      "date": "2022-11-08 23:14:09.493029",
-      "max_times": 19
+      "score": 33530,
+      "date": "2022-11-13 17:59:54.249133",
+      "max_times": 25
     },
     "occasional": {
       "score": 4273,
@@ -19821,9 +19821,9 @@
       "max_times": 30
     },
     "creep": {
-      "score": 22143,
-      "date": "2022-11-08 23:14:09.496509",
-      "max_times": 20
+      "score": 33530,
+      "date": "2022-11-13 17:59:58.591895",
+      "max_times": 26
     },
     "drift": {
       "score": 33530,
