@@ -12922,8 +12922,8 @@
     },
     "obstacle": {
       "score": 33530,
-      "date": "2022-12-03 09:06:00.449465",
-      "max_times": 5
+      "date": "2022-12-03 22:28:21.449317",
+      "max_times": 15
     },
     "thermostat": {
       "score": 0,
@@ -13291,9 +13291,9 @@
       "max_times": 10
     },
     "invasive": {
-      "score": 0,
-      "date": "2022-12-03 22:18:32.035046",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-12-03 22:26:25.489133",
+      "max_times": 10
     },
     "intrusive": {
       "score": 33530,
@@ -15996,9 +15996,9 @@
       "max_times": 0
     },
     "chronic": {
-      "score": 6114,
-      "date": "2022-12-03 22:18:32.037948",
-      "max_times": 18
+      "score": 33530,
+      "date": "2022-12-03 22:30:00.858653",
+      "max_times": 23
     },
     "outrage": {
       "score": 5211,
