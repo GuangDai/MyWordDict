@@ -5587,8 +5587,8 @@
     },
     "realm": {
       "score": 33530,
-      "date": "2022-12-03 09:04:02.822947",
-      "max_times": 5
+      "date": "2022-12-03 22:24:34.071154",
+      "max_times": 15
     },
     "plate": {
       "score": 0,
@@ -8882,8 +8882,8 @@
     },
     "impair": {
       "score": 33530,
-      "date": "2022-12-03 09:11:00.666410",
-      "max_times": 4
+      "date": "2022-12-03 22:20:36.256491",
+      "max_times": 14
     },
     "amongst": {
       "score": 33530,
@@ -15341,9 +15341,9 @@
       "max_times": 0
     },
     "intervene": {
-      "score": 0,
-      "date": "2022-12-03 22:18:32.037268",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-12-03 22:23:06.259363",
+      "max_times": 10
     },
     "prevalent": {
       "score": 9410,
@@ -15446,9 +15446,9 @@
       "max_times": 0
     },
     "intervention": {
-      "score": 14555,
-      "date": "2022-12-03 22:18:32.037385",
-      "max_times": 20
+      "score": 33530,
+      "date": "2022-12-03 22:22:57.532231",
+      "max_times": 30
     },
     "workload": {
       "score": 0,
@@ -16051,9 +16051,9 @@
       "max_times": 22
     },
     "inhibit": {
-      "score": 0,
-      "date": "2022-12-03 22:18:32.038050",
-      "max_times": 0
+      "score": 33530,
+      "date": "2022-12-03 22:21:26.475028",
+      "max_times": 10
     },
     "inventiveness": {
       "score": 0,
