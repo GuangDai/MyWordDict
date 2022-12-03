@@ -19451,8 +19451,8 @@
       "max_times": 7
     },
     "dose": {
-      "score": 3,
-      "date": "2022-12-03 22:18:32.042734",
+      "score": 0,
+      "date": "2022-12-03 17:51:42.643558",
       "max_times": 0
     },
     "intimidate": {
@@ -24226,9 +24226,9 @@
       "max_times": 0
     },
     "defendant": {
-      "score": 5386,
-      "date": "2022-12-03 22:18:32.047825",
-      "max_times": 5
+      "score": 33530,
+      "date": "2022-12-03 17:51:42.643624",
+      "max_times": 7
     },
     "occasionally": {
       "score": 0,
