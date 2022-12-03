@@ -13266,9 +13266,9 @@
       "max_times": 0
     },
     "reassure": {
-      "score": 5942,
-      "date": "2022-12-03 22:18:32.035000",
-      "max_times": 13
+      "score": 692.246913580247,
+      "date": "2022-12-03 17:55:42.650070",
+      "max_times": 5
     },
     "mitigate": {
       "score": 0,
@@ -19626,9 +19626,9 @@
       "max_times": 3
     },
     "nutrition": {
-      "score": 1353,
-      "date": "2022-12-03 22:18:32.043156",
-      "max_times": 3
+      "score": 0,
+      "date": "2022-12-03 17:55:42.650109",
+      "max_times": 0
     },
     "outbreak": {
       "score": 33530,
