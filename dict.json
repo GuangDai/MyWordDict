@@ -2096,9 +2096,9 @@
       "max_times": 0
     },
     "skull": {
-      "score": 33530,
-      "date": "2022-12-03 09:19:12.842701",
-      "max_times": 5
+      "score": 3894.485596707819,
+      "date": "2022-12-04 17:21:42.632566",
+      "max_times": 0
     },
     "slam": {
       "score": 6140,
@@ -7321,9 +7321,9 @@
       "max_times": 5
     },
     "preliminary": {
-      "score": 1943,
-      "date": "2022-12-03 22:18:32.028865",
-      "max_times": 2
+      "score": 33530,
+      "date": "2022-12-04 17:21:42.633351",
+      "max_times": 8
     },
     "stress": {
       "score": 0,
@@ -19391,9 +19391,9 @@
       "max_times": 8
     },
     "moisture": {
-      "score": 422,
-      "date": "2022-12-03 22:18:32.042580",
-      "max_times": 1
+      "score": 0,
+      "date": "2022-12-04 17:21:42.632641",
+      "max_times": 0
     },
     "molecule": {
       "score": 9511,
